@@ -9,3 +9,4 @@ Extruder config
 http://www.soliwiki.com/PID_tuning
 Heatbed config 
 // FIND YOUR OWN: "M303 E-1 C8 S90" to run autotune on the bed at 90 degreesC for 8 cycles.
+https://www.instructables.com/id/Configuring-and-using-Reprap-Ramps14-RRD-Fan-Exten/
